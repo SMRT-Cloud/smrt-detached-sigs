@@ -1,1 +1,1 @@
-# CCB-detached-sigs
+# smrt-detached-sigs
